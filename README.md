@@ -18,7 +18,8 @@ Follow these steps to setup the project locally,
 1. **Clone the repository**
 ```
 git clone https://github.com/Uzzal-Bhowmik/l2-assignment-2-book-store.git
-cd l2-assignment-2book-store
+
+cd l2-assignment-2-book-store
 ```
 2. **Install Dependencies**
 ```
