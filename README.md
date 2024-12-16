@@ -22,17 +22,18 @@ git clone https://github.com/Uzzal-Bhowmik/l2-assignment-2-book-store.git
 cd l2-assignment-2-book-store
 ```
 2. **Install Dependencies**
-```
-npm install
-```
-3. **Setup `.env` file**
+
+`yarn` or `npm install`
+
+4. **Setup `.env` file**
 ```
 DATABASE_URL=mongodb+srv://<username>:<password>@cluster0.4d6tm.mongodb.net/assignment-2-book-store?retryWrites=true&
 w=majority&appName=Cluster0
 PORT=5000
 ```
 4. **Run the server**
-```yarn start:dev``` or ```npm run start:dev```
+   
+`yarn start:dev` or `npm run start:dev`
 
 The application will run on `http://localhost:5000` by default.
 
